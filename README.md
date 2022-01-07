@@ -1,10 +1,10 @@
 # Bikesharing Analysis
 
 ## Overview of Project
-Kate and I have been working to prepare a business proposal to start a bike-share business in Des Moines. We used data provided by Citi-Bike (INSERT LINK - https://ride.citibikenyc.com/system-data) to research how their business works in New York City so we could work to model ours in a similar fashion. If we can learn how the business is successful in New York, that would help us better understand what changes we would need to make to have a successful business here. 
+Kate and I have been working to prepare a business proposal to start a bike-share business in Des Moines. We used data provided by [Citi-Bike](https://ride.citibikenyc.com/system-data) to research how their business works in New York City so we could work to model ours in a similar fashion. If we can learn how the business is successful in New York, that would help us better understand what changes we would need to make to have a successful business here. 
 
 ## Results 
-To view our full story, use this link: [Tableau Story](https://public.tableau.com/views/BikesharingAnalysis-Challenge/BikesharingAnalysis-Challenge?:language=en-US&:display_count=n&:origin=viz_share_link)
+To view our full story, use this link: [Tableau Story](https://public.tableau.com/shared/22BX79C59?:display_count=n&:origin=viz_share_link)
 
 
 
